@@ -4,7 +4,7 @@
 
 ## Description
 
-This application uses existing code for a text editor application (JATE) and implements methods for getting and storing data to an IndexedDB database so the resulting appcan function offline. The user can use J.A.T.E to write notes or code in both the browser or the installed application; data will persist across
+This application uses existing code for a text editor application (JATE) and implements methods for getting and storing data to an IndexedDB database so the resulting application can function offline. The user can use J.A.T.E to write notes or code in both the browser and the installed application; data will persist across both!
 
 ## Table of Contents
 
