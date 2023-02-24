@@ -21,7 +21,7 @@ Git clone the repo and then run `npm i` to install the dependecies to your local
 
 Below is a video walk-through of the deployed application:
 
-<iframe src="https://drive.google.com/file/d/1-IWo4DvbemH8LgYJRvq9XiF2_B3nGOHo/preview" width="640" height="480"></iframe>
+https://drive.google.com/file/d/1-IWo4DvbemH8LgYJRvq9XiF2_B3nGOHo/view
 
 ## Deployed Application
 
